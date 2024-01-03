@@ -52,6 +52,7 @@ a:hover {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+ 
 
 }
 
@@ -95,11 +96,12 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--section-heading-color)
+  color: var(--section-heading-color);
 }
 
 .contact-list:hover, .contact-list:focus {
   color:#404bbf;
+  text-decoration: none;
 }
 
 
@@ -257,6 +259,7 @@ button:focus {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+ 
 }
 
 .header-list-description {
@@ -264,4 +267,7 @@ button:focus {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 400;
+  
 }
+
