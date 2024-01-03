@@ -38,12 +38,6 @@ header {
 }
 
 
-
-a:hover {
-  text-decoration: underline;
-}
-
-
 .logo {
   color: var(--logo-main-color);
   font-family: "Raleway", sans-serif;
@@ -259,6 +253,7 @@ button:focus {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  
  
 }
 
@@ -268,6 +263,7 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: 400;
+  
   
 }
 
